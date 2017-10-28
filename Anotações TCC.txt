@@ -16,9 +16,8 @@ Assuntos do TCC
 TCC - 1
 
 - Sistemas de Informação 
- -> Processos de desenvolvimento de sistema
+- Exclusão Digital
 - Sistemas Gerenciais
-- Levantamento de Requisitos
 - Linguagem de Programação PHP
 - Banco de Dados Firebird
 -------------------------------
