@@ -1,0 +1,9 @@
+-> Atualizações do TCC
+
+-> Revisar todos os requisitos funcionais
+-> Adicionar citações em todos os capitulos
+-> Deixar todas as imagens claras
+-> Adicionar nas referencias o site do adminLTE
+-> Adicionar Ficha catalografica
+-> Adicionar Folha de aprovação 
+
